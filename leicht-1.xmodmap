@@ -12,7 +12,7 @@ keycode  13 = 4 dollar 4 dollar EuroSign currency
 !keycode  17 = 8 parenleft 8 asterisk bracketleft trademark
 !keycode  18 = 9 parenright 9 parenleft bracketright plusminus
 !keycode  19 = 0 equal 0 parenright braceright degree
-!keycode  20 = minus underscore ssharp question backslash questiondown U1E9E
+keycode  20 = minus underscore ssharp question backslash questiondown U1E9E
 !keycode  21 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
 !keycode  22 = BackSpace BackSpace BackSpace BackSpace
 
@@ -50,13 +50,13 @@ keycode  47 = t T t T semicolon colon dead_doubleacute dead_belowdot
 !keycode  50 = Shift_L NoSymbol Shift_L
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
-!!! lower row lass mich das doch einfach mal testen. 
+!!! lower row 
 keycode  52 = y Y z Z Escape Escape guillemotright U203A
 !keycode  53 = x X x X guillemotleft U2039
 !keycode  54 = c C c C cent copyright
 keycode  55 = v V v V Return Return
 !keycode  56 = b B b B leftdoublequotemark leftsinglequotemark
-!keycode  57 = j J j J rightdoublequotemark rightsinglequotemark
+keycode  57 = j J j J rightdoublequotemark rightsinglequotemark
 !keycode  58 = m M m M mu masculine
 !keycode  59 = comma semicolon comma less periodcentered multiply
 !keycode  60 = period colon period greater U2026 division
