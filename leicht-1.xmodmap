@@ -51,7 +51,7 @@ keycode  47 = t T t T semicolon colon dead_doubleacute dead_belowdot
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row lass mich das doch einfach mal testen. 
-!keycode  52 = y Y z Z guillemotright U203A
+keycode  52 = y Y z Z Escape Escape guillemotright U203A
 !keycode  53 = x X x X guillemotleft U2039
 !keycode  54 = c C c C cent copyright
 keycode  55 = v V v V Return Return
@@ -82,7 +82,7 @@ keycode  61 = odiaeresis Odiaeresis slash question endash emdash
 !keycode  91 = KP_Delete KP_Separator KP_Delete KP_Separator
 !keycode  92 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift
 !keycode  93 =
-keycode  94 = less greater less greater Escape Escape bar brokenbar
+keycode  94 = less greater less greater bar brokenbar
 !keycode  95 = F11 F11 F11 F11 F11 F11 XF86Switch_VT_11 F11 F11 XF86Switch_VT_11
 !keycode  96 = F12 F12 F12 F12 F12 F12 XF86Switch_VT_12 F12 F12 XF86Switch_VT_12
 !keycode  97 =
