@@ -1,2 +1,2 @@
 F2 schaltet zwischen den normalen Tastenbelegungen um
-F12 aktiviert xmodmap current 
+F3 aktiviert xmodmap current 
