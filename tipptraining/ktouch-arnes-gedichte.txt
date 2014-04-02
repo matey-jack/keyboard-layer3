@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kt:KTouchLecture xmlns:kt="ktouch.sourceforge.net"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="ktouch.sourceforge.net file:/home/blaessig/ktouch/ktouch-lectures.xsd">
+ <Title>Trainingsdatei für die Neo 2 Grundreihe</Title>
+ <Comment>Deutsche Trainings-Datei für KTouch
+  
+  Trainiert die Grundreihe
+  Gedichte von Arne Babenhauserheide (http://draketo.de) das nur aus Wörtern besteht, die auf der Neo Grundreihe vorkommen.</Comment>
+ <FontSuggestions>Courier 10 Pitch</FontSuggestions>
+
+ <Levels>
+<Level>
+<NewCharacters>Ae Nr - Strophe 1: aenr</NewCharacters>
+<Line>nenne er narren rare arenen</Line>
+<Line>ernenne er anna</Line>
+</Level>
+<Level>
+<NewCharacters>Ae Nr - Strophe 2: EANR</NewCharacters>
+<Line>Erna nenne Arne</Line>
+<Line>Arne nenne Anna</Line>
+<Line>Anna nenne Arne Narr</Line>
+<Line>Arne ran an Rana</Line>
+</Level>
+<Level>
+<NewCharacters>Iae Nrt - Strophe 1: it IT</NewCharacters>
+<Line>Tinten an Tannen rannen in Rinnen</Line>
+<Line>Titan erinnert an reinere Ritter</Line>
+<Line>Innen trat Anna Anita</Line>
+<Line>Arne tritt ein</Line>
+</Level>
+<Level>
+<NewCharacters>Iae Nrt - Strophe 2</NewCharacters>
+<Line>Nein Reiter er ernannte einen internierten Narren</Line>
+<Line>Rennet irre Tiere er errettet einen Ritter</Line>
+</Level>
+<Level>
+<NewCharacters>Iae Nrt - Strophe 3</NewCharacters>
+<Line>Tee an Teint</Line>
+<Line>Tat an Rat</Line>
+<Line>Enten in Rittern</Line>
+<Line>Ritter in Enten</Line>
+<Line>Titanen in Rente</Line>
+</Level>
+  <Level>
+   <NewCharacters>Uiae Nrtd - Strophe 1: u d</NewCharacters>
+   <Line>Erde an Arne der untere Rand eint die trauernden Taten</Line>
+   <Line>er eint den Tau und die Ader der Narren und anderer Arten</Line>
+   <Line>da trauert der Tau in den Auen der dauernden Erde</Line>
+   <Line>Nun ran an die Ruder und ruder in Runden in den Ruin</Line>
+  </Level>
+  <Level>
+   <NewCharacters>Uiae Nrtd - Strophe 2: U D</NewCharacters>
+   <Line>Taten der Trauer und Taten der Tide und Taten der Andern</Line>
+   <Line>an dir und den Deinen und an den Anderen deiner Art</Line>
+   <Line>Dein Ende und deine dauernden Diener erden deine Trauer</Line>
+   <Line>Und der Ritter der Eier rettet die Erde und traut nur dir</Line>
+  </Level>
+  <Level>
+   <NewCharacters>Uiae Nrtd - Strophe 3</NewCharacters>
+   <Line>Denn in deinen reinen einenden Reitern</Line>
+   <Line>reiten die Eide der Narren der Erde</Line>
+   <Line>und tarnen die Runen der Au</Line>
+  </Level>
+  <Level>
+   <NewCharacters>Uiaeo Snrtd - Strophe 1: o s</NewCharacters>
+  <Line>Dinosaurier des Nordens nennen sie uns in stotternden Reden</Line>
+<Line>Die Rosen der Saison sind in unserem Tross</Line>
+<Line>Sie sondern uns aus in den tosenden Arten des Daseins</Line>
+<Line>Das Tote autorisiert unseren Tod in Dosen</Line>
+
+  </Level>
+  <Level>
+   <NewCharacters>Uiaeo Snrtd - Strophe 2: O S</NewCharacters>
+
+<Line>Dienste der Toten an den Oasen des Notstands</Line>
+<Line>Essen der Isis Dorn der Nornen Reis unserer Erde</Line> 
+<Line>Die Ironie unserer Not in der Union der Industrie</Line>
+<Line>Seine Esser sind Insassen der Senate und Institutionen</Line>
+
+  </Level>
+  <Level>
+   <NewCharacters>Uiaeo Snrtd - Strophe 3</NewCharacters>
+<Line>So ran an die Tasten</Line>
+<Line>Denn Neo ist nett</Line>
+<Line>ordne sie raste nie</Line>
+<Line>dann ist es adrett</Line>
+
+  </Level>
+  <Level>
+  <NewCharacters>Uiaeo Snrtd - Strophe 4</NewCharacters>
+<Line>und trau diesen Tasten</Line>
+<Line>denn sie sind aus dir denn</Line>
+<Line>unser Trost in den Tasten</Line>
+<Line>trennt uns und Tier</Line>
+
+  </Level>
+  <Level>
+  <NewCharacters>Uiaeo Snrtd - Strophe 5</NewCharacters>
+<Line>So sende die Saat deiner Taten an sie</Line>
+<Line>sondiere den Sand deiner Art</Line>
+<Line>Die Oder den Osten oder die Anden</Line>
+<Line>sie senden den Tasten den Rat</Line>
+<Line>trau dir</Line>
+</Level>
+</Levels>
+</kt:KTouchLecture>
+
