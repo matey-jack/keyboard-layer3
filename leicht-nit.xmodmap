@@ -30,7 +30,7 @@ keycode  31 = u U u U bracketright idotless
 keycode  32 = o O o O braceright Oslash
 keycode  33 = p P p P backslash THORN
 keycode  34 = udiaeresis Udiaeresis bracketleft braceleft ampersand dead_abovering
-!keycode  35 = plus asterisk bracketright braceright dead_tilde dead_macron
+keycode  35 = plus asterisk bracketright braceright asciitilde dead_macron
 !keycode  36 = Return NoSymbol Return
 
 !!! middle row
@@ -56,7 +56,7 @@ keycode  52 = y Y z Z Escape Escape guillemotright U203A
 !keycode  54 = c C c C cent copyright
 keycode  55 = v V v V Return Return
 !keycode  56 = b B b B leftdoublequotemark leftsinglequotemark
-keycode  57 = j J j J at rightsinglequotemark
+keycode  57 = j J j J equal rightsinglequotemark
 !keycode  58 = m M m M mu masculine
 keycode  59 = comma semicolon comma less exclam multiply
 keycode  60 = period colon period greater question division
