@@ -12,7 +12,7 @@ keycode  13 = 4 dollar 4 dollar EuroSign currency
 !keycode  17 = 8 parenleft 8 asterisk bracketleft trademark
 !keycode  18 = 9 parenright 9 parenleft bracketright plusminus
 !keycode  19 = 0 equal 0 parenright braceright degree
-!keycode  20 = minus underscore ssharp question backslash questiondown U1E9E
+keycode  20 = minus underscore ssharp question backslash questiondown U1E9E
 !keycode  21 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
 !keycode  22 = BackSpace BackSpace BackSpace BackSpace
 
