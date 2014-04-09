@@ -1,17 +1,28 @@
+Satzzeichen auf den ersten beiden Ebenen (Entwurf):
+qwtdf zkoupü
+aserg hniltä
+yxcvn bm,.-
+
+qwtdf zkoupü
+aserg hniltä
+yxcvn bm!:?
+
+
 zu platzieren:
 {}[]()_\
 !?-/–"
 
 schon da: .,:;'~
 
-Vorschlag:
+Muster:
 zkuopü
 hnietä
-jm,.ö
+bm,.ö
 
+Vorschlag:
 {[]}\&
-"()_-–
-@ !?/
+"();
+@   _
 
 
 Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
