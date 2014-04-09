@@ -47,7 +47,7 @@ keycode  46 = l L l L underscore Lstroke
 keycode  47 = t T t T minus dead_belowdot
 keycode  48 = adiaeresis Adiaeresis apostrophe quotedbl endash dead_caron
 !keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
-!keycode  50 = Shift_L Shift_Lock Shift_L
+keycode  50 = Shift_L Shift_Lock Shift_L
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row 
@@ -61,7 +61,7 @@ keycode  57 = j J j J equal rightsinglequotemark
 keycode  59 = comma exclam comma less semicolon multiply
 keycode  60 = period question period greater colon division
 keycode  61 = odiaeresis Odiaeresis slash question slash emdash
-!keycode  62 = Shift_R Shift_Lock Shift_R
+keycode  62 = Shift_R Shift_Lock Shift_R
 !keycode  63 = KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply XF86ClearGrab KP_Multiply KP_Multiply XF86ClearGrab
 !keycode  64 = Alt_L Meta_L Alt_L Meta_L
 !keycode  65 = space NoSymbol space
