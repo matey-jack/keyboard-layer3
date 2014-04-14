@@ -1,0 +1,45 @@
+Die drei neuen Positionen in der Mitte sind schlecht zu erreichen, daher packen wir nur Zeichen darauf, welche nicht im normalen Schreibfluss gebraucht werden. 
+Um die wichtigen Zeichen trotzdem alle unter zu bekommen, nutzen wir zusätzlich die Tasten < und B.
+
+Insgesamt 4 gute und 3 schlechte Positionen zu vergeben. 
+
+Satzzeichen auf den ersten beiden Ebenen:
+gar nicht verändert: ,.:
+gleicher Finger und gleiche Ebene: !
+gleiche Hand und gleiche Ebene: ?
+neu auf Ebene 1, für don't und Jack's: '
+gleiche Ebene und leicht zu erreichen: -
+symmetrisch zu -: +
+möglichst logisch verteilt (steht noch zur Debatte): @€_*
+
+Layer 1:
+ qwbfö @zkoupü
+ aserg €hniltä
+'yxcv- +jm,.
+
+Layer Shift:
+ QWBFÖ <ZKUOPÜ
+ ASDRG >HNILTÄ
+!YXCV_ *JM?:
+
+bisher verteilt:
+@€'+-,.
+<>!*_?:
+
+L3 auf altem Platz:
+|~
+
+zu platzieren:
+{}[]()
+\~#/"–
+
+Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine leichtere Übergangszeit haben.
+· steht für bisher unbelegte Positionen
+
+Layer 3: 
+ ⇑ <↑> ⇓  ·{[]}\~
+ ↤←↓→↦  ·"();-&
+|       –  ·=µ·/
+
+Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
+
