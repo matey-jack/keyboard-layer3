@@ -47,7 +47,7 @@ keycode  46 = l L l L semicolon Lstroke
 keycode  47 = t T t T slash dead_belowdot
 keycode  48 = adiaeresis Adiaeresis apostrophe quotedbl endash dead_caron
 !keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
-keycode  50 = Shift_L Shift_Lock Shift_L
+keycode  50 = ISO_Level3_Shift
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row 
@@ -68,7 +68,7 @@ keycode  62 = Shift_R Shift_Lock Shift_R
 !keycode  66 = Caps_Lock NoSymbol Caps_Lock
 !keycode 66 = ISO_Level3_Shift ISO_Level3_Shift ISO_Level3_Shift 
 remove lock = Caps_Lock 
-keysym Caps_Lock = ISO_Level3_Shift
+keysym Caps_Lock = Shift_L Shift_Lock Shift_L
 
 !keycode  79 = KP_Home KP_7 KP_Home KP_7
 !keycode  80 = KP_Up KP_8 KP_Up KP_8
