@@ -37,9 +37,9 @@ Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine lei
 · steht für bisher unbelegte Positionen
 
 Layer 3: 
- ⇑ <↑> ⇓  ·{[]}\~
+ ⇑ <↑> ⇓  ·ß{[]}~
  ↤←↓→↦  ·"();-&
-|       –  ·=µ·/
+|       –  ·=µ\/
 
 Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
 
