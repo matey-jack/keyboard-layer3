@@ -1,7 +1,7 @@
+!keycode   9 = Escape NoSymbol Escape
 
 !!! digit row
-!keycode   8 =
-!keycode   9 = Escape NoSymbol Escape
+!keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
 keycode  10 = 1 exclam 1 exclam at exclamdown
 !keycode  11 = 2 quotedbl 2 at twosuperior oneeighth
 !keycode  12 = 3 section 3 numbersign threesuperior sterling
@@ -34,7 +34,9 @@ keycode  35 = plus asterisk bracketright braceright asciitilde dead_macron
 !keycode  36 = Return NoSymbol Return
 
 !!! middle row
-!keycode  37 = Control_L NoSymbol Control_L
+remove lock = Caps_Lock 
+keycode 66 = Shift_L Shift_Lock Shift_L
+add shift = Shift_L
 keycode  38 = a A a A Home Home
 keycode  39 = s S s S Left Left
 keycode  40 = d D d D Down Down
@@ -46,12 +48,11 @@ keycode  45 = i I i I parenright ampersand
 keycode  46 = l L l L semicolon Lstroke
 keycode  47 = t T t T slash dead_belowdot
 keycode  48 = adiaeresis Adiaeresis apostrophe quotedbl endash dead_caron
-!keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
-remove shift = Shift_L
-keycode  50 = ISO_Level3_Shift
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row 
+!remove shift = Shift_L
+!keycode  50 = ISO_Level3_Shift
 keycode  52 = y Y z Z Escape Escape guillemotright U203A
 !keycode  53 = x X x X guillemotleft U2039
 !keycode  54 = c C c C cent copyright
@@ -64,14 +65,19 @@ keycode  60 = period colon period greater colon division
 keycode  61 = minus question slash question underscore emdash
 keycode  62 = Shift_R Shift_Lock Shift_R
 !keycode  63 = KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply XF86ClearGrab KP_Multiply KP_Multiply XF86ClearGrab
+
+!!! space row
+!keycode  37 = Control_L NoSymbol Control_L
+!keycode 133 = Super_L
 !keycode  64 = Alt_L Meta_L Alt_L Meta_L
 !keycode  65 = space NoSymbol space
-!keycode  66 = Caps_Lock NoSymbol Caps_Lock
-!keycode 66 = ISO_Level3_Shift ISO_Level3_Shift ISO_Level3_Shift 
-remove lock = Caps_Lock 
-keysym Caps_Lock = Shift_L Shift_Lock Shift_L
-add shift = Shift_L
+!keycode 108 = ISO_Level3_Shift
+!keycode 135 =
+!keycode 105 = Control_R NoSymbol Control_R NoSymbol Control_R
 
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !keycode  79 = KP_Home KP_7 KP_Home KP_7
 !keycode  80 = KP_Up KP_8 KP_Up KP_8
 !keycode  81 = KP_Prior KP_9 KP_Prior KP_9
