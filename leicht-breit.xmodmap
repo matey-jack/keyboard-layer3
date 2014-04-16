@@ -1,19 +1,19 @@
+!keycode   9 = Escape NoSymbol Escape
 
 !!! digit row
-!keycode   8 =
-!keycode   9 = Escape NoSymbol Escape
+!keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
 keycode  10 = 1 exclam 1 exclam at exclamdown
 !keycode  11 = 2 quotedbl 2 at twosuperior oneeighth
 !keycode  12 = 3 section 3 numbersign threesuperior sterling
 keycode  13 = 4 dollar 4 dollar EuroSign currency
-!keycode  14 = 5 percent 5 percent onehalf threeeighths
-!keycode  15 = 6 ampersand 6 asciicircum notsign fiveeighths
-!keycode  16 = 7 slash 7 ampersand braceleft seveneighths
-!keycode  17 = 8 parenleft 8 asterisk bracketleft trademark
-!keycode  18 = 9 parenright 9 parenleft bracketright plusminus
-!keycode  19 = 0 equal 0 parenright braceright degree
-!keycode  20 = ssharp question minus underscore backslash questiondown U1E9E
-!keycode  21 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
+keycode  14 = 5 percent 5 percent onehalf threeeighths
+keycode  15 = 6 ampersand 6 asciicircum notsign fiveeighths
+keycode  16 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
+keycode  17 = 7 slash 7 ampersand braceleft seveneighths
+keycode  18 = 8 parenleft 8 asterisk bracketleft trademark
+keycode  19 = 9 parenright 9 parenleft bracketright plusminus
+keycode  20 = 0 equal 0 parenright braceright degree
+keycode  21 = ssharp question minus underscore backslash questiondown U1E9E
 !keycode  22 = BackSpace BackSpace BackSpace BackSpace
 
 
@@ -24,54 +24,73 @@ keycode  25 = w W w W BackSpace BackSpace
 keycode  26 = b B b B Up Up
 keycode  27 = f F f F Delete Delete
 keycode  28 = odiaeresis Odiaeresis odiaeresis Odiaeresis Next Next
-keycode  29 = z Z y Y braceleft ssharp
-keycode  30 = k K k K bracketleft uparrow
-keycode  31 = u U u U bracketright idotless
-keycode  32 = o O o O braceright Oslash
-keycode  33 = p P p P backslash THORN
-keycode  34 = udiaeresis Udiaeresis bracketleft braceleft ampersand dead_abovering
-keycode  35 = plus asterisk bracketright braceright asciitilde dead_macron
+keycode  29 = at less
+keycode  30 = z Z y Y ssharp ssharp
+keycode  31 = k K k K braceleft uparrow
+keycode  32 = u U u U bracketleft idotless
+keycode  33 = o O o O bracketright Oslash
+keycode  34 = p P p P braceright THORN
+keycode  35 = udiaeresis Udiaeresis bracketleft braceleft asciitilde dead_abovering
 !keycode  36 = Return NoSymbol Return
 
 !!! middle row
-!keycode  37 = Control_L NoSymbol Control_L
+remove lock = Caps_Lock 
+keycode 66 = Shift_L Shift_Lock Shift_L
+add shift = Shift_L
 keycode  38 = a A a A Home Home
 keycode  39 = s S s S Left Left
 keycode  40 = d D d D Down Down
 keycode  41 = r R r R Right Right
 keycode  42 = g G g G End End
-keycode  43 = h H h H quotedbl apostrophe
-keycode  44 = n N n N parenleft dead_abovedot
-keycode  45 = i I i I parenright ampersand
-keycode  46 = l L l L semicolon Lstroke
-keycode  47 = t T t T slash dead_belowdot
-keycode  48 = adiaeresis Adiaeresis apostrophe quotedbl endash dead_caron
-!keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
-remove shift = Shift_L
-keycode  50 = ISO_Level3_Shift
+keycode  43 = EuroSign greater
+keycode  44 = h H h H quotedbl apostrophe
+keycode  45 = n N n N parenleft dead_abovedot
+keycode  46 = i I i I parenright ampersand
+keycode  47 = l L l L semicolon Lstroke
+keycode  48 = t T t T minus dead_belowdot
+keycode  49 = adiaeresis Adiaeresis slash quotedbl endash dead_caron
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row 
+!remove shift = 50
+!keycode  50 = ISO_Level3_Shift
+keycode  94 = apostrophe exclam less greater bar brokenbar
 keycode  52 = y Y z Z Escape Escape guillemotright U203A
-!keycode  53 = x X x X guillemotleft U2039
-!keycode  54 = c C c C cent copyright
+keycode  53 = x X x X 
+keycode  54 = c C c C 
 keycode  55 = v V v V Return Return
-keycode  56 = b B b B leftdoublequotemark leftsinglequotemark
-keycode  57 = j J j J equal rightsinglequotemark
-!keycode  58 = m M m M mu masculine
-keycode  59 = comma exclam comma less semicolon multiply
-keycode  60 = period colon period greater colon division
-keycode  61 = minus question slash question underscore emdash
+keycode  56 = minus underscore endash leftdoublequotemark leftsinglequotemark
+keycode  57 = plus asterisk
+keycode  58 = j J j J equal rightsinglequotemark
+keycode  59 = m M m M mu masculine
+keycode  60 = comma question comma less ampersand multiply
+keycode  61 = period colon period greater backslash division
 keycode  62 = Shift_R Shift_Lock Shift_R
 !keycode  63 = KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply XF86ClearGrab KP_Multiply KP_Multiply XF86ClearGrab
-!keycode  64 = Alt_L Meta_L Alt_L Meta_L
-!keycode  65 = space NoSymbol space
-!keycode  66 = Caps_Lock NoSymbol Caps_Lock
-!keycode 66 = ISO_Level3_Shift ISO_Level3_Shift ISO_Level3_Shift 
-remove lock = Caps_Lock 
-keysym Caps_Lock = Shift_L Shift_Lock Shift_L
-add shift = Shift_L
 
+!!! space row
+clear mod1
+clear mod4
+clear mod5
+!keycode  37 = Control_L NoSymbol Control_L
+keycode 133 = Alt_L Meta_L Alt_L Meta_L
+! unset nonexisting keys, so modifier map stays legible. 
+keycode 0xcc =
+keycode  64 = ISO_Level3_Shift ISO_Level3_Shift
+keycode  65 = space NoSymbol space
+keycode 108 = e E e E
+keycode 135 = ISO_Level3_Shift ISO_Level3_Shift
+keycode  92 = 
+!keycode 105 = Control_R NoSymbol Control_R NoSymbol Control_R
+
+! modifiers are configured by keysym, but stored using keycodes
+! so we have to clear thej first and set them last.
+add mod1 = Alt_L
+add mod5 = ISO_Level3_Shift
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !keycode  79 = KP_Home KP_7 KP_Home KP_7
 !keycode  80 = KP_Up KP_8 KP_Up KP_8
 !keycode  81 = KP_Prior KP_9 KP_Prior KP_9
@@ -87,7 +106,6 @@ add shift = Shift_L
 !keycode  91 = KP_Delete KP_Separator KP_Delete KP_Separator
 !keycode  92 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift
 !keycode  93 =
-keycode  94 = less greater less greater bar brokenbar
 !keycode  95 = F11 F11 F11 F11 F11 F11 XF86Switch_VT_11 F11 F11 XF86Switch_VT_11
 !keycode  96 = F12 F12 F12 F12 F12 F12 XF86Switch_VT_12 F12 F12 XF86Switch_VT_12
 !keycode  97 =

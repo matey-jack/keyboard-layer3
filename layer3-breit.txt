@@ -10,7 +10,8 @@ gleiche Hand und gleiche Ebene: ?
 neu auf Ebene 1, für don't und Jack's: '
 gleiche Ebene und leicht zu erreichen: -
 symmetrisch zu -: +
-möglichst logisch verteilt (steht noch zur Debatte): @€_*
+auf SHIFT für JAVA_CONSTANTS: _ 
+möglichst logisch verteilt (steht noch zur Debatte): @€*
 
 Layer 1:
  qwbfö @zkoupü
@@ -38,8 +39,8 @@ Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine lei
 
 Layer 3: 
  ⇑ <↑> ⇓  ·ß{[]}~
- ↤←↓→↦  ·"();-&
-|       –  ·=µ\/
+ ↤←↓→↦  ·"();-/
+|       –  ·=µ&\
 
 Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
 
