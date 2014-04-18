@@ -47,12 +47,12 @@ keycode  39 = s S s S Left Left
 keycode  40 = d D d D Down Down
 keycode  41 = f F f F Right Right
 keycode  42 = g G g G End End
-keycode  43 = BackSpace BackSpace greater
+keycode  43 = BackSpace Delete greater
 keycode  44 = h H h H quotedbl apostrophe
 keycode  45 = n N n N parenleft dead_abovedot
 keycode  46 = i I i I parenright ampersand
 keycode  47 = l L l L semicolon Lstroke
-keycode  48 = t T t T minus dead_belowdot
+keycode  48 = t T t T endash dead_belowdot
 keycode  51 = Shift_R Shift_Lock Shift_R
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 

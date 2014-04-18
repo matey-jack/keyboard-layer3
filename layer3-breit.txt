@@ -15,8 +15,8 @@ möglichst logisch verteilt (steht noch zur Debatte): #*
 
 Layer 1:
 ⇥qwbfö @zkoupü
-⇧aserg #hnilt
-'yxcv+ äjm,.-⇧
+⇧aserg #hnilt⇧
+'yxcv+ äjm,.-
 
 Layer Shift:
 ⇥QWBFÖ ·ZKUOPÜ
@@ -44,8 +44,8 @@ Layer 3 links:
 
 Layer 3 rechts:
 <{[]}/~
->"();-
-·=µ&\–
+>"();–
+·=µ&\
 
 Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
 
