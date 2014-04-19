@@ -1,17 +1,19 @@
-Die drei neuen Positionen in der Mitte sind schlecht zu erreichen, daher packen wir nur Zeichen darauf, welche nicht im normalen Schreibfluss gebraucht werden. 
-Um die wichtigen Zeichen trotzdem alle unter zu bekommen, nutzen wir zusätzlich die Tasten < und B.
+Modifier Map:
+Shift kommt wie beim TECK ganz nah außen neben den kleinen Finger.
+Steuerung lassen wir erstmal auf beiden Seiten gleich.
+Links lassen wir auch Alt und Win und legen DRITT stattdessen wie bei Neo auf |.
+Rechts bereiten wir schonmal vor, dass AltGr E werden kann und legen DRITT auf Menu.
+
+Mein Laptop:
+Shift   A   S   D  F   G  '  H   N    I    L    T  Shift
+Shift DRITT Y X  C  V   B   +   J   M    ,    .   -
+Strg Fn Win Alt  L E E R T A S T E frei DRITT Strg Pfeiltasten
 
 Insgesamt 4 gute und 3 schlechte Positionen zu vergeben. 
 
-Satzzeichen auf den ersten beiden Ebenen:
-gar nicht verändert: ,.:
-gleicher Finger und gleiche Ebene: !
-gleiche Hand und gleiche Ebene: ?
-neu auf Ebene 1, für don't und Jack's: '
-gleiche Ebene und leicht zu erreichen: -
-symmetrisch zu -: +
-auf SHIFT für JAVA_CONSTANTS: _ 
-möglichst logisch verteilt (steht noch zur Debatte): #*
+Satzzeichen auf den ersten beiden Ebenen werden kaum verändert:
+nur ' kommt auf L1, weil es im (englischen) Textfluss viel wichtiger ist als #
+Ä kommt hoch zum Ö, weil es mit R weniger Konflikte hat als mit N und H. (Die obere Position ist ein klein wenig näher an der linken Hand, während die untere deutlich näher an der rechten Hand ist.
 
 Layer 1:
   234     90ß   
@@ -29,17 +31,18 @@ bisher verteilt:
 '+-,.
 !*_?:
 
-L3 auf altem Platz:
-@\~
+L3w auf altem Platz:
+@\|
 
 zu platzieren:
-€|{}[]()
-\~#/"–
+€{}[]()
+/–
 
 Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine leichtere Übergangszeit haben.
 · steht für bisher unbelegte Positionen
 
 Layer 3 links: 
+  §€
  @<↑>
  ↤←↓→↦  
 ⇕|  E     
