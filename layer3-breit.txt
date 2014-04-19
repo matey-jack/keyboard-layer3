@@ -14,17 +14,19 @@ auf SHIFT für JAVA_CONSTANTS: _
 möglichst logisch verteilt (steht noch zur Debatte): #*
 
 Layer 1:
-⇥qwbfö @zkoupü
-⇧aserg #hnilt⇧
-'yxcv+ äjm,.-
+ 1234     890ß   
+⇥qwbföä zkuopü
+⇧aserg 'hnilt⇧
+ yxcvb +jm,.-
 
 Layer Shift:
-⇥QWBFÖ ·ZKUOPÜ
-⇧ASDRG ·HNILT⇧
-!YXCV* ÄJM?:_
+ !"!$     ()=?
+⇥QWEFÖÄ ZKUOPÜ
+⇧ASDRG #HNILT⇧
+!YXCVB *JM?:_
 
 bisher verteilt:
-@€'+-,.
+'+-,.
 <>!*_?:
 
 L3 auf altem Platz:

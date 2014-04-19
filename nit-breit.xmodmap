@@ -8,8 +8,8 @@ clear mod5
 !!! digit row
 !keycode  49 = dead_circumflex degree grave asciitilde U2032 U2033
 keycode  10 = 1 exclam 1 exclam at exclamdown
-!keycode  11 = 2 quotedbl 2 at twosuperior oneeighth
-!keycode  12 = 3 section 3 numbersign threesuperior sterling
+keycode  11 = 2 quotedbl 2 at twosuperior oneeighth
+keycode  12 = 3 exclam 3 numbersign section sterling
 keycode  13 = 4 dollar 4 dollar EuroSign currency
 keycode  14 = 5 percent 5 percent onehalf threeeighths
 keycode  15 = 6 ampersand 6 asciicircum notsign fiveeighths
@@ -25,12 +25,12 @@ keycode  22 =
 
 !!! upper row
 !keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
-keycode  24 = q Q q Q Prior Prior
-keycode  25 = w W w W BackSpace BackSpace
+keycode  24 = q Q q Q at 
+keycode  25 = w W w W BackSpace Delete
 keycode  26 = e E e E Up Up
-keycode  27 = r R r R Delete Delete
-keycode  28 = odiaeresis Odiaeresis odiaeresis Odiaeresis Next Next
-keycode  29 = at less
+keycode  27 = r R r R Delete BackSpace
+keycode  28 = odiaeresis Odiaeresis odiaeresis Odiaeresis 
+keycode  29 = adiaeresis Adiaeresis at less
 keycode  30 = z Z y Y braceleft uparrow
 keycode  31 = k K k K bracketleft idotless
 keycode  32 = u U u U bracketright Oslash
@@ -41,13 +41,13 @@ keycode  35 = udiaeresis Udiaeresis bracketleft braceleft asciitilde dead_abover
 
 !!! middle row
 remove lock = Caps_Lock 
-keycode 66 = Shift_L Shift_Lock Shift_L
+keycode 66 = Shift_L Shift_Lock Shift_L Shift_L Shift_L Shift_L
 keycode  38 = a A a A Home Home
 keycode  39 = s S s S Left Left
 keycode  40 = d D d D Down Down
 keycode  41 = f F f F Right Right
 keycode  42 = g G g G End End
-keycode  43 = BackSpace Delete greater
+keycode  43 = apostrophe numbersign greater
 keycode  44 = h H h H quotedbl apostrophe
 keycode  45 = n N n N parenleft dead_abovedot
 keycode  46 = i I i I parenright ampersand
@@ -59,13 +59,13 @@ keycode  51 = Shift_R Shift_Lock Shift_R
 !!! lower row 
 keycode  50 = 
 !keycode  50 = ISO_Level3_Shift
-keycode  94 = apostrophe exclam less greater bar brokenbar
-keycode  52 = y Y z Z Undo Undo guillemotright U203A
-keycode  53 = x X x X 
+keycode  94 = NoSymbol NoSymbol less greater bar brokenbar
+keycode  52 = y Y z Z bar brokenbar
+keycode  53 = x X x X Undo Undo
 keycode  54 = c C c C 
 keycode  55 = v V v V Return Return
 keycode  56 = b B b B plus asterisk
-keycode  57 = adiaeresis Adiaeresis slash quotedbl slash dead_caron
+keycode  57 = plus asterisk slash quotedbl slash dead_caron
 keycode  58 = j J j J equal rightsinglequotemark
 keycode  59 = m M m M mu masculine
 keycode  60 = comma question comma less ampersand multiply
