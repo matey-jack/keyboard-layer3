@@ -14,39 +14,39 @@ auf SHIFT für JAVA_CONSTANTS: _
 möglichst logisch verteilt (steht noch zur Debatte): #*
 
 Layer 1:
- 1234     890ß   
+  234     90ß   
 ⇥qwbföä zkuopü
 ⇧aserg 'hnilt⇧
  yxcvb +jm,.-
 
 Layer Shift:
- !"!$     ()=?
+  "!$     )=?
 ⇥QWEFÖÄ ZKUOPÜ
 ⇧ASDRG #HNILT⇧
-!YXCVB *JM?:_
+!YXCVB *JM;:_
 
 bisher verteilt:
 '+-,.
-<>!*_?:
+!*_?:
 
 L3 auf altem Platz:
-|~
+@\~
 
 zu platzieren:
-{}[]()
+€|{}[]()
 \~#/"–
 
 Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine leichtere Übergangszeit haben.
 · steht für bisher unbelegte Positionen
 
 Layer 3 links: 
- ⇑ <↑> ⇓
+ @<↑>
  ↤←↓→↦  
-|       
+⇕|  E     
 
 Layer 3 rechts:
-<{[]}/~
->"();–
+<{}[]/~
+>" ();–
 ·=µ&\
 
 Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
