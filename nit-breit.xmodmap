@@ -19,20 +19,19 @@ keycode  18 = 9 parenright 9 parenleft bracketleft plusminus
 keycode  19 = 0 equal 0 parenright bracketright degree
 keycode  20 = ssharp question minus underscore backslash questiondown U1E9E
 keycode  21 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
-keycode  22 = 
-!keycode  22 = BackSpace BackSpace BackSpace BackSpace
+keycode  22 = BackSpace BackSpace BackSpace BackSpace
 
 
 !!! upper row
 !keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
-keycode  24 = q Q q Q at 
+keycode  24 = adiaeresis Adiaeresis at 
 keycode  25 = w W w W BackSpace Delete
 keycode  26 = e E e E Up Up
 keycode  27 = r R r R Delete BackSpace
-keycode  28 = adiaeresis Adiaeresis 
-keycode  29 = odiaeresis Odiaeresis 
+keycode  28 = odiaeresis Odiaeresis
+keycode  29 = q Q q Q 
 keycode  30 = z Z y Y 
-keycode  31 = k K k K 
+keycode  31 = k K k K ampersand
 keycode  32 = u U u U braceleft Oslash
 keycode  33 = o O o O braceright THORN
 keycode  34 = p P p P slash backslash
@@ -52,7 +51,7 @@ keycode  44 = h H h H quotedbl apostrophe
 keycode  45 = n N n N endash emdash dead_abovedot
 keycode  46 = i I i I parenleft 
 keycode  47 = l L l L parenright
-keycode  48 = t T t T ampersand dead_belowdot
+keycode  48 = t T t T semicolon dead_belowdot
 keycode  51 = Shift_R Shift_Lock Shift_R
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
