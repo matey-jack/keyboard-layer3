@@ -1,51 +1,57 @@
-Die drei neuen Positionen in der Mitte sind schlecht zu erreichen, daher packen wir nur Zeichen darauf, welche nicht im normalen Schreibfluss gebraucht werden. 
-Um die wichtigen Zeichen trotzdem alle unter zu bekommen, nutzen wir zusätzlich die Tasten < und B.
+Modifier Map:
+Shift kommt wie beim TECK ganz nah außen neben den kleinen Finger.
+Steuerung lassen wir erstmal auf beiden Seiten gleich.
+Links lassen wir auch Alt und Win und legen DRITT stattdessen wie bei Neo auf |.
+Rechts bereiten wir schonmal vor, dass AltGr E werden kann und legen DRITT auf Menu.
+
+Mein Laptop:
+Shift   A   S   D  F   G  '  H   N    I    L    T  Shift
+Shift DRITT Y X  C  V   B   +   J   M    ,    .   -
+Strg Fn Win Alt  L E E R T A S T E frei DRITT Strg Pfeiltasten
 
 Insgesamt 4 gute und 3 schlechte Positionen zu vergeben. 
 
-Satzzeichen auf den ersten beiden Ebenen:
-gar nicht verändert: ,.:
-gleicher Finger und gleiche Ebene: !
-gleiche Hand und gleiche Ebene: ?
-neu auf Ebene 1, für don't und Jack's: '
-gleiche Ebene und leicht zu erreichen: -
-symmetrisch zu -: +
-auf SHIFT für JAVA_CONSTANTS: _ 
-möglichst logisch verteilt (steht noch zur Debatte): #*
+Satzzeichen auf den ersten beiden Ebenen werden kaum verändert:
+nur ' kommt auf L1, weil es im (englischen) Textfluss viel wichtiger ist als #
+Ä kommt hoch zum Ö, weil es mit R weniger Konflikte hat als mit N und H. (Die obere Position ist ein klein wenig näher an der linken Hand, während die untere deutlich näher an der rechten Hand ist.
 
 Layer 1:
- qwbfö @zkoupü
- aserg #hniltä
-'yxcv- +jm,.
+  234     90ß   
+⇥qwbföä zkuopü
+⇧aserg 'hnilt⇧
+ yxcvb +jm,.-
 
 Layer Shift:
- QWBFÖ ·ZKUOPÜ
- ASDRG ·HNILTÄ
-!YXCV_ *JM?:
+  "!$     )=?
+⇥QWEFÖÄ ZKUOPÜ
+⇧ASDRG #HNILT⇧
+!YXCVB *JM;:_
 
 bisher verteilt:
-@€'+-,.
-<>!*_?:
+'+-,.
+!*_?:
 
-L3 auf altem Platz:
-|~
+L3w auf altem Platz:
+@\|
 
 zu platzieren:
-{}[]()
-\~#/"–
+€{}[]()
+/–
 
 Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine leichtere Übergangszeit haben.
 · steht für bisher unbelegte Positionen
 
 Layer 3 links: 
- ⇑ <↑> ⇓
+  §€
+ @<↑>
  ↤←↓→↦  
-|       –
+⇕| çE     
 
 Layer 3 rechts:
-<ß{[]}~
->"();-/
-·=µ&\
+  []\
+  {}/~
+  ()&
+ µ<>–
 
 Colemak hat die meisten Klammern und Satzzeichen auf denselben Tasten wie US-qwert. Ich finde den Ansatz wenig zu verändern ja auch ganz richtig, aber im Deutschen-qwert liegen die Klammern eben erstmal schlecht. Programmer's Dvorak kann aus letzterem Grund auch kein Vorbild sein zudem es nichtmal mit der Kompatibilität trumpfen kann. Deswegen scheint ein Neuanfang schon sinnvoll.
 
