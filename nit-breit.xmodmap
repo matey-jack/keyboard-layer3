@@ -13,10 +13,10 @@ keycode  12 = 3 exclam 3 numbersign section sterling
 keycode  13 = 4 dollar 4 dollar EuroSign currency
 keycode  14 = 5 percent 5 percent onehalf threeeighths
 keycode  15 = 6 ampersand 6 asciicircum notsign fiveeighths
-keycode  16 = 7 slash 7 ampersand braceleft seveneighths
-keycode  17 = 8 parenleft 8 asterisk braceright  trademark
-keycode  18 = 9 parenright 9 parenleft bracketleft plusminus
-keycode  19 = 0 equal 0 parenright bracketright degree
+keycode  16 = 7 slash
+keycode  17 = 8 parenleft
+keycode  18 = 9 parenright 9 parenleft bracketleft 
+keycode  19 = 0 equal 0 parenright bracketright 
 keycode  20 = ssharp question minus underscore backslash questiondown U1E9E
 keycode  21 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
 keycode  22 = BackSpace BackSpace BackSpace BackSpace
@@ -24,7 +24,7 @@ keycode  22 = BackSpace BackSpace BackSpace BackSpace
 
 !!! upper row
 !keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
-keycode  24 = adiaeresis Adiaeresis at 
+keycode  24 = adiaeresis Adiaeresis adiaeresis Adiaeresis at 
 keycode  25 = w W w W BackSpace Delete
 keycode  26 = e E e E Up Up
 keycode  27 = r R r R Delete BackSpace
@@ -56,6 +56,7 @@ keycode  51 = Shift_R Shift_Lock Shift_R
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row 
+! keep this key silent, so we can use it as Ctrl later!
 keycode  50 = 
 !keycode  50 = Shift_L Shift_Lock Shift_L
 keycode  94 = ISO_Level3_Shift ISO_Level3_Shift
