@@ -13,7 +13,7 @@ Insgesamt 4 gute und 3 schlechte Positionen zu vergeben.
 
 Satzzeichen auf den ersten beiden Ebenen werden kaum verändert:
 nur ' kommt auf L1, weil es im (englischen) Textfluss viel wichtiger ist als #
-Ä kommt hoch zum Ö, weil es mit R weniger Konflikte hat als mit N und H. (Die obere Position ist ein klein wenig näher an der linken Hand, während die untere deutlich näher an der rechten Hand ist.
+
 
 Layer 1:
   234     90ß   
@@ -48,8 +48,8 @@ Layer 3 links:
 
 Layer 3 rechts:
    []\
-  &{}/~
-   ();
+  /{}/~
+  &();
 – µ<>
 
 
