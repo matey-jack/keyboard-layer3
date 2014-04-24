@@ -24,12 +24,12 @@ keycode  22 = BackSpace BackSpace BackSpace BackSpace
 
 !!! upper row
 !keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
-keycode  24 = adiaeresis Adiaeresis adiaeresis Adiaeresis at 
+keycode  24 = q Q q Q at 
 keycode  25 = w W w W BackSpace Delete
 keycode  26 = e E e E Up Up
 keycode  27 = r R r R Delete BackSpace
 keycode  28 = odiaeresis Odiaeresis
-keycode  29 = q Q q Q 
+keycode  29 = plus asterisk slash quotedbl slash dead_caron
 keycode  30 = z Z y Y 
 keycode  31 = k K k K ampersand
 keycode  32 = u U u U braceleft Oslash
@@ -52,25 +52,24 @@ keycode  45 = n N n N endash emdash dead_abovedot
 keycode  46 = i I i I parenleft 
 keycode  47 = l L l L parenright
 keycode  48 = t T t T semicolon dead_belowdot
-keycode  51 = Shift_R Shift_Lock Shift_R
+keycode  51 = adiaeresis Adiaeresis adiaeresis Adiaeresis
 !keycode  51 = numbersign apostrophe backslash bar rightsinglequotemark dead_breve
 
 !!! lower row 
-! keep this key silent, so we can use it as Ctrl later!
-keycode  50 = 
-!keycode  50 = Shift_L Shift_Lock Shift_L
+keycode  50 = Shift_L Shift_Lock Shift_L
 keycode  94 = ISO_Level3_Shift ISO_Level3_Shift
 keycode  52 = y Y z Z bar brokenbar
 keycode  53 = x X x X Undo Undo
 keycode  54 = c C c C ccedilla ccedilla
 keycode  55 = v V v V Return Return
 keycode  56 = b B b B plus asterisk
-keycode  57 = plus asterisk slash quotedbl slash dead_caron
+keycode  57 = minus underscore minus underscore endash emdash
 keycode  58 = j J j J equal rightsinglequotemark
 keycode  59 = m M m M mu masculine
 keycode  60 = comma semicolon comma less less multiply
 keycode  61 = period colon period greater greater division
-keycode  62 = minus underscore minus underscore endash emdash
+keycode  62 = Shift_R Shift_Lock Shift_R
+!keycode  62 = minus underscore minus underscore endash emdash
 !keycode  63 = KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply XF86ClearGrab KP_Multiply KP_Multiply XF86ClearGrab
 
 !!! space row

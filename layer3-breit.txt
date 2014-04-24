@@ -17,15 +17,15 @@ nur ' kommt auf L1, weil es im (englischen) Textfluss viel wichtiger ist als #
 
 Layer 1:
   234     90ß   
-⇥qwbföä zkuopü
-⇧aserg 'hnilt⇧
- yxcvb +jm,.-
+⇥qwbfö+ zkuopü
+⇧aserg 'hniltä
+ yxcvb -jm,.⇧
 
 Layer Shift:
   "!$     )=?
-⇥QWEFÖÄ ZKUOPÜ
-⇧ASDRG #HNILT⇧
-!YXCVB *JM;:_
+⇥QWEFÖ* ZKUOPÜ
+⇧ASDRG #HNILTÄ
+!YXCVB _JM;:⇧
 
 bisher verteilt:
 '+-,.
@@ -38,7 +38,6 @@ zu platzieren:
 €{}[]()
 /–
 
-Außerdem wiederholen wir das - auf demselben Finger, damit Unix-Nutzer eine leichtere Übergangszeit haben.
 · steht für bisher unbelegte Positionen
 
 Layer 3 links: 
@@ -48,10 +47,9 @@ Layer 3 links:
 ⇕| çE     
 
 Layer 3 rechts:
-  []\
- &{}/~
- –();
- µ<>–
+   []\
+  &{}/~
+   ();
+– µ<>
 
-– wird wiederholt, weil die Ex-Shift-Taste noch keine dritte Ebene hat.
 
