@@ -13,14 +13,13 @@ keycode  12 = 3 exclam 3 numbersign section sterling
 keycode  13 = 4 dollar 4 dollar EuroSign currency
 keycode  14 = 5 percent 5 percent onehalf threeeighths
 keycode  15 = 6 ampersand 6 asciicircum notsign fiveeighths
-keycode  16 = 7 slash
-keycode  17 = 8 parenleft
-keycode  18 = 9 parenright 9 parenleft bracketleft 
-keycode  19 = 0 equal 0 parenright bracketright 
-keycode  20 = ssharp question minus underscore backslash questiondown U1E9E
-keycode  21 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
+keycode  16 = dead_acute dead_grave equal plus dead_cedilla dead_ogonek
+keycode  17 = 7 slash 7 slash braceleft
+keycode  18 = 8 parenleft 8 parenleft bracketleft
+keycode  19 = 9 parenright 9 parenleft bracketright
+keycode  20 = 0 equal 0 parenright braceright
+keycode  21 = ssharp question minus underscore backslash questiondown U1E9E
 keycode  22 = BackSpace BackSpace BackSpace BackSpace
-
 
 !!! upper row
 !keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
