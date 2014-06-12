@@ -80,7 +80,13 @@ keycode  64 = Alt_L Meta_L Alt_L Meta_L
 !keycode  65 = space NoSymbol space
 keycode 108 = 
 !keycode 108 = e E e E
-keycode 135 = ISO_Level3_Shift ISO_Level3_Shift
+
+!!right WIN
+keycode 134 = ISO_Level3_Shift ISO_Level3_Shift
+
+!!MENU
+!keycode 135 = ISO_Level3_Shift ISO_Level3_Shift
+
 !keycode  92 = 
 !keycode 105 = Control_R NoSymbol Control_R NoSymbol Control_R
 
