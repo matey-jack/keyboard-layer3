@@ -61,14 +61,13 @@ keycode  52 = y Y z Z bar brokenbar
 keycode  53 = x X x X Escape Escape
 keycode  54 = c C c C ccedilla Ccedilla
 keycode  55 = v V v V Return Return
-keycode  56 = E E plus asterisk
+keycode  56 = eacute Eacute e E egrave Egrave
 keycode  57 = minus underscore minus underscore endash emdash
-keycode  58 = j J j J equal rightsinglequotemark
+keycode  58 = j J j J E equal rightsinglequotemark
 keycode  59 = m M m M mu masculine
 keycode  60 = comma semicolon comma less less multiply
 keycode  61 = period colon period greater greater division
 keycode  62 = Shift_R Shift_Lock Shift_R
-!keycode  62 = minus underscore minus underscore endash emdash
 !keycode  63 = KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply KP_Multiply XF86ClearGrab KP_Multiply KP_Multiply XF86ClearGrab
 
 !!! space row
