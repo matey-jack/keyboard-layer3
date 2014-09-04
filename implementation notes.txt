@@ -1,0 +1,12 @@
+XkbTypes is the component which defines the number of (shift) levels and (mod) groups.
+
+Die Lösung des Shift-Problems: http://superuser.com/questions/498710/xkb-remap-arrow-keys-and-preserve-shift-behaviour-to-select-text
+
+from http://madduck.net/docs/extending-xkb/
+xkbcomp $DISPLAY xkb.dump
+editor xkb.dump
+xkbcomp xkb.dump $DISPLAY
+
+altgr keycode 108, xkb symbol RALT (aliased to ALGR)
+
+http://www.charvolant.org/~doug/xkb/html/node5.html#Sec:SymbolsTypes
