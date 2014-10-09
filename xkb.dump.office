@@ -1359,7 +1359,7 @@ xkb_symbols "pc+de+us:2+inet(evdev)" {
     };
     key <AB10> {
         type[group1]= "FOUR_LEVEL",
-        symbols[Group1]= [          period,           colon,         greater,        division ],
+        symbols[Group1]= [          period,           colon,         greater,        periodcentered ], // middle dot
         symbols[Group2]= [          period,         greater ]
     };
     key <RTSH> {
