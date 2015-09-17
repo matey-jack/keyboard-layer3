@@ -1,2 +1,2 @@
 #!/bin/bash
-xkbcomp xkb.dump.1 $DISPLAY
+xkbcomp /home/robert/keyboard-layouts/leicht/xkb.dump.1 $DISPLAY
