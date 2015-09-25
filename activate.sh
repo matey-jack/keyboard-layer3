@@ -1,2 +1,4 @@
 #!/bin/bash
-xkbcomp /home/robert/keyboard-layouts/leicht/xkb.dump.1 $DISPLAY
+cd `dirname $0`
+xkbcomp xkb.dump.office $DISPLAY
+
