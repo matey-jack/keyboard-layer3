@@ -1,0 +1,17 @@
+Ein Passwort nur aus Tasten, die sich nicht verändert haben, lässt wenig Wahl, wenn man das PW auch noch leicht merkbar machen will.
+
+Ziffern von 1 bis 6
+Zeichen zweite Ebene unverändert: !"$%&
+Zeichen erste Ebene verschoben: .,-+ 
+Zeichen zweite Ebene verschoben: :;_*
+Zeichen vertauschte Ebene: '#
+Zeichen dritte Ebene: nehmen wir nicht
+
+Buchstaben gleich: qwasyxcdv
+Buchstaben versetzt: zopühläm
+Buchstaben vertauscht: bfrekuinjtö
+
+Zählen Umlaute als Sonderzeichen? Bei IS24 kurz vor dem 9. Okt 2015 tun sie es nicht. Wahrscheinlich sind die neuen Policies aber schon aktiv und es wird so bleiben.
+==> Passwort mit Umlaut lies mich eben gar nicht einloggen. Theoretisch könnte ich es mir falsch gemerkt haben, aber praktisch vermeide ich Umlaute zukünftig lieber.
+
+
