@@ -1194,7 +1194,7 @@ xkb_symbols "pc+de+us:2+inet(evdev)" {
     key <AD07> {
         type[group1]= "FOUR_LEVEL_SEMIALPHABETIC",
         type[group2]= "ALPHABETIC",
-        symbols[Group1]= [               z,               Z,        NoSymbol,        NoSymbol ],
+        symbols[Group1]= [               z,               Z,        asterisk,        NoSymbol ],
         symbols[Group2]= [               y,               Y ]
     };
     key <AD08> {
@@ -1272,7 +1272,7 @@ xkb_symbols "pc+de+us:2+inet(evdev)" {
     key <AC08> {
         type[group1]= "FOUR_LEVEL_SEMIALPHABETIC",
         type[group2]= "ALPHABETIC",
-        symbols[Group1]= [               n,               N,       ampersand,          emdash ],
+        symbols[Group1]= [               n,               N,       colon,          emdash ],
         symbols[Group2]= [               n,               N ],
         symbols[Group3]= [   dead_abovedot ]
     };
