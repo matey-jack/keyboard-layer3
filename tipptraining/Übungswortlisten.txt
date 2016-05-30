@@ -1,0 +1,74 @@
+                        Top 5         Top 11              Top 20
+                            v             v                   v
+Top 20 Konstant:          S     A H D   L   C G M O   W     Z
+Top 20 Neu:       E N I R     T       U             B   F K
+
+Top 
+
+# Unsere Wortbasis:
+wc -l german.dic
+1'769'580 german.dic
+
+# So schlecht ist die alte Grundreihe:
+egrep -i '^[asdfjklö]+$' german.dic | wc -l
+97
+
+# Unsere Top 5 Buchstaben allein sind schon besser:
+egrep -i '^[enirs]+$' german.dic | wc -l
+257
+
+# Aus unseren Top 11 kann man schon einige Gedichte machen:
+egrep -i '^[enirs tahdul]+$' german.dic | wc -l
+22'603
+
+# Und hier die Top 20:
+egrep -i '^[enirs tahdul cgmobwfkz]+$' german.dic | wc -l
+909'233
+
+# Zum Lernen ist es nützlich, sich Wörter anzuschauen, die nur Top 11 + 3 gewanderte Buchstaben enthalten:
+egrep -i '^[enirs tahdul bfk]+$' german.dic | wc -l
+93'630
+
+Da J und Ö so selten sind, lernt man sie am besten durch Wiederholen der zehn bis zwanzig häufigsten Wörter, die sie enthalten...
+
+Gleiches gilt eigentlich auch für die Top Buchstaben: es ist einfacher, die 100 bis 1000 häufigsten Wörter überhaupt zu üben, denn dort kommen die Top Buchstaben natürlich alle vor, und natürlich auch häufig vor, und das Gehirn ist sowieso dran gewöhnt lieber ganze Wörter zu tippen!
+
+Also statt reine Top 10 Buchstaben Gedichte zu schreiben, wäre es wohl sinnvoller erstmal Top 100 Wörter oder Top 1000 Wörter Gedichte zu nehmen und diese evt so zu filtern, dass seltene ungemappte Buchstaben noch nicht vorkommen, damit man sich erstmal auf die neuen konzentrieren kann.
+
+
+Buchstabe
+v    Häufigkeit  
+v    v      Position
+E  16,93%   G*
+N  10,53%   G*
+I 	8,02%   G*
+R	6,89%   G*
+S	6,42%   G
+
+T	5,79%   G*
+A	5,58%   G
+H	4,98%   GM
+D	4,98%   G
+U	3,83%   O*
+L	3,60%   G
+
+C	3,16%   U
+G	3,02%   GM
+M	2,55%   U
+O	2,24%   O
+B	1,96%   O*
+W	1,78%   O
+F	1,49%   O*
+K	1,32%   O*
+Z	1,21%   O
+
+V	0,84%
+P	0,67%
+Ü	0,65%
+Ä	0,54%
+ß	0,37%
+Ö	0,30%   O*
+J	0,24%   U*
+Y	0,05%
+X	0,05%
+Q	0,02%
