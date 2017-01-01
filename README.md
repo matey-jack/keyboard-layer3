@@ -76,12 +76,14 @@ Die deutsche Tastatur hat (wie viele andere internationale Varianten) eine Taste
 
 Wenige einfache Tausche machen aus der Standard-Tastatur eine bequeme Tastatur! Neben den qualitativen Aspekten, die ich hier zur Erklärung anführe, lässt sich das auch anhand von standardisierten Bewertungen zeigen. Hier zum Beispiel die Bewertung des Optimier-Tools mit welchem die Neo-Layout Gemeinschaft ihr neues Layout entwickelt hat:
 
-QWERTZ           570.586
-leicht-ni        445.728    nur n i k u j sind neu belegt. nur k und u wechseln den Finger.
-leicht-nit       415.650    zusätzlich wechselt t auf die andere Hand im Tausch mit ö.
-Neo 2            328.678    weit verbreitetes Layout (z.B. mit Ubuntu geliefert), aber alle Buchstaben neu belegt!
-leicht-dr        292.049    ähnlich dem gemütlichen Layout, aber ohne die Änderung für e und mit Änderung für ß, welche von der Metrik verlangt wird. Besser als Neo 2, obwohl nur 11 Buchstaben gegenüber Standard-Layout geändert. 
-ANDW             225.671    mathematisches Optimum für diese Bewertungs-Metrik. alle Buchstaben neu belegt!
+Layout          | Aufwand  | Beschreibung
+--------------- | -------- | -------------
+QWERTZ          | 570.586  | Standard-Layout aus dem 19. Jahrhundert
+leicht-ni       | 445.728  | nur n i k u j sind neu belegt. nur k und u wechseln den Finger.
+leicht-nit      | 415.650  | zusätzlich wechselt t auf die andere Hand im Tausch mit ö.
+Neo 2           | 328.678  | weit verbreitetes Layout (z.B. mit Ubuntu geliefert), aber alle Buchstaben neu belegt!
+leicht-dr       | 292.049  | ähnlich dem gemütlichen Layout, aber ohne die Änderung für e und mit Änderung für ß, welche von der Metrik verlangt wird. Besser als Neo 2, obwohl nur 11 Buchstaben gegenüber Standard-Layout geändert. 
+ANDW            | 225.671  | mathematisches Optimum für diese Bewertungs-Metrik. alle Buchstaben neu belegt!
 
 Leider können die vorgefertigten automatischen Layout-Bewerter nicht mit dem Daumen-E umgehen, daher lässt sich nur ein ähnliches Layout automatisch bewerten. Aber wie mensch sieht, schneidet es sehr gut ab!
 
