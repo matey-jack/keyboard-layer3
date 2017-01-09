@@ -11,7 +11,14 @@
 ```
    qwbfö + zkuopü
 ⇧  asdrg ' hniltä
-⇧¤ yxcvè - nm,. ⇧
+⇧¤ yxcv /- nm,. ⇧
+      LEER e ¤
+```
+
+```
+   QWBFÖ * ZKUOPÜ
+⇧  ASDRG " HNILTÄ
+⇧¤ YXCV =_ JM;: ⇧
       LEER e ¤
 ```
 
@@ -59,16 +66,16 @@ S↑ S↓ sind Seite hoch/runter. Sie liegen nebeneinander, damit man beim läng
 Wie man sieht, bleibt @ an der gewohnten Stelle. Dafür wandert € eine Reihe nach oben, so dass es auf der $ Taste liegt, wenn man sie mit AltGr drückt. Leicht zu merken und immer noch derselbe Finger! Ebenso muss der | Strich für die linke AltGr-Taste weichen und rutscht einfach eine Taste weiter. Die spitzen Klammern wechseln die Seite zu allen anderen Klammern.
 
 
-Volles Bild der dritten Ebene rechts:
+Volles Bild der dritten Ebene mitte und rechts:
 
 ```
- {[]}\
-*/{}\~
- :();
-=µ<>
+   {[]}\
+*   {}\~
+#  :();
+– =µ<>
 ```
 
-Wie man leicht sieht, sind die Standard-Positionen von {} \ ~ und µ erhalten (außerdem sind ; : / * wie im Standard per Shift zu erreichen), aber zusätzlich sind viele Tasten nochmal auf dieser Ebene erhalten, so dass man einfach das linke AltGr gedrückt halten kann, um häufige Programmierer-Bigramme einzugeben:   http:// oder ~/ und \* auf der Shell oder ); und <= oder >=. Ebenso leicht gehen auch die Smileys :*) (Das Bigramm != kann man weiterhin durch gedrückt Shift-Taste und die unveränderten Standard-Positionen von ! und = eingeben.)
+Wie man leicht sieht, sind die Standard-Positionen von {} \ ~ und µ erhalten (außerdem sind ; : / * wie im Standard per Shift zu erreichen), aber zusätzlich sind viele Tasten nochmal auf dieser Ebene erhalten, so dass man einfach das linke AltGr gedrückt halten kann, um häufige Programmierer-Bigramme einzugeben:   http:// oder ~/ und \* auf der Shell oder ); und <= oder >=. Ebenso leicht gehen auch die Smileys :*) (Das Bigramm != kann man weiterhin durch gedrückte Shift-Taste und die unveränderten Standard-Positionen von ! und = eingeben.) TODO: nach Belegung von / auf der Hauptebene dies und die Shift-Ebene der Satzzeichen nochmal überarbeiten.
 
 ### Die neue Belegung der Buchstaben
 
@@ -103,7 +110,5 @@ Das ist "leicht-nit" aus der Tabelle oben. In dieser Variante habe ich eine Zeit
 5. Schließlich liegt B viel besser auf dem nun freien Platz des E
 
 Insgesamt sind nur 11 von 30 Buchstaben verändert (wenn die Verschiebung der Grundposition außer acht lässt). ANDW verändert sogar 32 Zeichen, denn auch . und , sind total verändert, andere Position, anderer Finger, oft auch andere Hand.
-
-TODO: keylogger benutzen, um gute Kandidaten für die vom E bzw. B befreite Taste zu finden!
 
 
