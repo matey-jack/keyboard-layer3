@@ -10,3 +10,8 @@ xkbcomp xkb.dump $DISPLAY
 altgr keycode 108, xkb symbol RALT (aliased to ALGR)
 
 http://www.charvolant.org/~doug/xkb/html/node5.html#Sec:SymbolsTypes
+
+
+NOTE: Ubuntu Print Screen Setting will still be called when PRSC is remapped. Change that manually using the Keyboard->Shortcuts settings. (Type "keyboard" in launcher to make it appear.)
+
+

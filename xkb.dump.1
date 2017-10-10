@@ -1469,8 +1469,8 @@ xkb_symbols "pc+de+us:2+inet(evdev)" {
         symbols[Group1]= [       KP_Divide,       KP_Divide,       KP_Divide,       KP_Divide,      XF86Ungrab ]
     };
     key <PRSC> {
-        type= "PC_ALT_LEVEL2",
-        symbols[Group1]= [           Print,         Sys_Req ]
+        type= "PC_LALT_LEVEL2",
+        symbols[Group1]= [           ISO_Level3_Shift,         Print ]
     };
     key <RALT> {
         type= "FOUR_LEVEL",
@@ -1608,6 +1608,7 @@ xkb_symbols "pc+de+us:2+inet(evdev)" {
     modifier_map Mod2 { <NMLK> };
     modifier_map Mod5 { <LVL3> };
     modifier_map Mod5 { <LSGT> };
+    modifier_map Mod5 { <PRSC> };
     modifier_map Control { <RCTL> };
     modifier_map Mod4 { <LWIN> };
     modifier_map Mod5 { <COMP> };
