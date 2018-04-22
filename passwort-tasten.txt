@@ -1,4 +1,9 @@
-Ein Passwort nur aus Tasten, die sich nicht verändert haben, lässt wenig Wahl, wenn man das PW auch noch leicht merkbar machen will.
+Ein Passwort nur aus Tasten, die sich nicht verändert haben, lässt wenig Wahl, 
+wenn man das PW auch noch leicht merkbar machen will.
+
+Buchstaben gleich: qwasyxcdv
+Buchstaben versetzt: zopühläm
+Buchstaben vertauscht: bfrekuinjtö
 
 Ziffern von 1 bis 6
 Zeichen zweite Ebene unverändert: !"$%&
@@ -7,11 +12,8 @@ Zeichen zweite Ebene verschoben: :;_*
 Zeichen vertauschte Ebene: '#
 Zeichen dritte Ebene: nehmen wir nicht
 
-Buchstaben gleich: qwasyxcdv
-Buchstaben versetzt: zopühläm
-Buchstaben vertauscht: bfrekuinjtö
+Ich mache es meist so, dass ich Passwörter aus gleichen und versetzten Zeichen zusammen setze. Merkbare Wörter auswählen:
 
-Zählen Umlaute als Sonderzeichen? Bei IS24 kurz vor dem 9. Okt 2015 tun sie es nicht. Wahrscheinlich sind die neuen Policies aber schon aktiv und es wird so bleiben.
-==> Passwort mit Umlaut lies mich eben gar nicht einloggen. Theoretisch könnte ich es mir falsch gemerkt haben, aber praktisch vermeide ich Umlaute zukünftig lieber.
+egrep -i '^[qwasyxcdvzophlmüä]+$' /usr/share/dict/words | less 
 
-
+Und davon drei oder mehr kombinieren. Nach Geschmack mit Ziffern 1 bis 6 sowie ,.-+ würzen.
