@@ -1,3 +1,5 @@
 
-things might help creating an actual layout entry in the official layout switcher (no more xkbcomp)
+this might help creating an actual layout entry in the official layout switcher (no more xkbcomp)
 https://medium.com/@damko/a-simple-humble-but-comprehensive-guide-to-xkb-for-linux-6f1ad5e13450
+
+and this for making the arrows work in more apps: https://superuser.com/questions/801611/how-to-make-all-applications-respect-my-modified-xkb-layout/1000320#1000320
