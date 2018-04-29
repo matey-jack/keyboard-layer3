@@ -1,0 +1,5 @@
+on thinkpad fn+s takes screenshot of window apparently.
+we could exploit that to replace PrintScreen key entirely.
+maybe even do other neat tricks...
+
+

@@ -1,0 +1,57 @@
+
+
+$ locate Xorg.conf
+<<< nichts >>>
+
+$ sudo find /etc -name Xorg.conf
+<<< nichts >>>
+
+==> hier merkt man schon, dass etwas anders ist als früher!!!
+
+
+all the base stuff should not be needed in Linux according to 
+
+
+
+./rules/base.extras.xml:5
+
+and there is indeed new input infrastructure in wayland called "libinput".
+and probably all Gnome apps (terminal, gedit, ect.) have been recompiled to work with that
+while IntelliJ still uses the old ways (likely related to all Java stuff running
+under XWayland https://stackoverflow.com/questions/39197208/java-gui-support-on-wayland )
+
+Java for Wayland is also not expected: https://lists.freedesktop.org/archives/wayland-devel/2016-August/030832.html
+
+Chrome probably uses EGL for rendering already and has no reason to switch to Wayland's libinput urgently. 
+on the other hand, ChromeOS never had an Xserver and uses Wayland since a long time.
+Probably prepared by the fact, that it had something like EGL from the start...
+
+Apparently, EGL was invented for embedded devices which did not have an X-server
+and used on Blackberry, Android, etc. Since it offered more direct use of GPUs
+from apps, it apparently become also used on Desktop Linux and therefore part of
+the migration away from X-Windows and its APIs. Both Wayland and Mir (now defunct)
+use it.
+
+So, I guess, both ChromeOS and Chrome (for being multi-platform, including Android)
+have used EGL
+
+
+$ find -type f | xargs grep -l neo | xargs grep -ci neo
+./rules/evdev.xml:3
+./rules/base.xml:3
+
+./rules/evdev.lst:2
+./rules/base.lst:2
+
+./rules/evdev.extras.xml:5
+./rules/base.extras.xml:5
+
+./rules/evdev:15
+./rules/base:15
+
+./symbols/de:23
+./symbols/nokia_vndr/rx-51:2
+./symbols/sun_vndr/de:4
+
+$ find -iname "*neo*"
+<<< nichts >>>

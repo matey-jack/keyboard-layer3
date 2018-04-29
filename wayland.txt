@@ -1,0 +1,13 @@
+https://blog.martin-graesslin.com/blog/2016/12/how-input-works-keyboard-input/
+
+
+Libinput only emits one event of type LIBINPUT_EVENT_KEYBOARD_KEY and that only contains the key which was either pressed or released.
+
+
+
+
+
+
+nice background: "Als Grund, warum Flöser keine neuen Funktionen mehr in X11 integrieren will, gab der KWin-Entwickler den damit verbundenen Mehraufwand an. So habe er festgestellt, dass Stabilitäts- und Qualitätsprobleme der vergangenen Jahre häufig mit neuen X11-Funktionen in Zusammenhang stünden. Wayland-Funktionen würden dagegen meist ohne Probleme implementiert.
+
+Schuld an dieser Situation seien vor allem die mangelnden Testmöglichkeiten für X11 im Vergleich zu denen für Wayland. So könnte die Wayland-Implementierung vergleichsweise einfach durch automatisierte Tests überprüft werden, bei X11 sei das hingegen nicht möglich. Zudem fielen einige Bugs durch das Raster des KDE-Teams, weil die Hauptentwickler mittlerweile vorwiegend Wayland einsetzten."
