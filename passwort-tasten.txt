@@ -1,17 +1,24 @@
 Ein Passwort nur aus Tasten, die sich nicht verändert haben, lässt wenig Wahl, wenn man das PW auch noch leicht merkbar machen will.
 
-Ziffern von 1 bis 6
-Zeichen zweite Ebene unverändert: !"$%&
-Zeichen erste Ebene verschoben: .,-+ 
-Zeichen zweite Ebene verschoben: :;_*
-Zeichen vertauschte Ebene: '#
-Zeichen dritte Ebene: nehmen wir nicht
-
-Buchstaben gleich: qwasyxcdv
-Buchstaben versetzt: zopühläm
+Buchstaben gleich: qwasyxcdv  sowie Ziffern von 1 bis 6
+Buchstaben versetzt: zopühläm  sowie Ziffern von 7 bis 0
 Buchstaben vertauscht: bfrekuinjtö
 
-Zählen Umlaute als Sonderzeichen? Bei IS24 kurz vor dem 9. Okt 2015 tun sie es nicht. Wahrscheinlich sind die neuen Policies aber schon aktiv und es wird so bleiben.
-==> Passwort mit Umlaut lies mich eben gar nicht einloggen. Theoretisch könnte ich es mir falsch gemerkt haben, aber praktisch vermeide ich Umlaute zukünftig lieber.
+Zeichen zweite Ebene unverändert: !"$%&      --> sichere Wahl
+Zeichen erste Ebene verschoben: .,-+         --> . und , sind auch bei falscher Beschriftung noch leicht zu finden!
+Zeichen zweite Ebene verschoben: :;_*
+Zeichen vertauschte Ebene: '#
+
+
+egrep "^[qwasyxcdv]+$" top10000en.txt  | less
+--> gibt wenig Ergebnisse, aber mensch kann schon so etwas wie "away4days" machen.
+
+egrep "^[qwasyxcdvzopühläm]+$" tipptraining/top10000en.txt | less
+--> 132 words already allow a few combinations!
+like "local law was also old"
+
+egrep "^[qwasyxcdvzopühläm]+$" top10000de-utf8.txt | less
+--> im Deutschen kommt mensch ohne i und e leider so gut wie nirgendwo hin!
+--> kann mensch höchstens ein paar Wörter mit Englischen mischen...
 
 
