@@ -1,0 +1,64 @@
+this is way too technical, but confirms that we can focus on the "evdev" copy of things and probably ignore "base.*": https://jan.newmarch.name/Wayland/Input/#heading_toc_j_5
+
+list of evdev scan codes:
+- http://www.comptechdoc.org/os/linux/howlinuxworks/linux_hlkeycodes.html
+
+probably not need this, but for reference, if I ever have to debug an evdev-device such as any keyboard!
+
+for anything that xkb can't do, this might be a solution: https://gitlab.com/interception/linux/tools
+
+https://realh.co.uk/wp/linux-keymap-hacking/ --> largely a short version of the next, much longer, post
+
+possibly useful later: https://github.com/xkbcommon/libxkbcommon/issues/40
+
+
+Useful for choosing layout options: https://superuser.com/questions/1160777/make-special-characters-available-on-us-keyboard-an-wayland  --> mostly for pure-layer-three
+
+--- 
+
+https://beatworm.co.uk/blog/keyboards/gnome-wayland-xkb
+
+Use legacy X11 for testing your xkb configuration, because Gnome + Wayland does not have a way
+of dynamic reload of config!
+
+for his use-case, no further deep understanding of anything was required. And to develop on X11 a great tip!!
+
+xkb-options might just be the right place to define my left AltGr and some other Layer 3 basics – like shift on Caps.
+
+
+
+Notable Quotes:
+> Even thought it's X.org now, not XFree86, and Xmodmap is heavily deprecated in favour of the XKeyboard 
+and Xinput extensions, using the GNOME configurator and then some of my old Xmodmap ways, I could make this 
+go away, and map ALTGR to a right meta, ALT to a left meta and the windows and menu key to SUPER and HYPER.
+
+> And then GNOME 3.22 switched to Wayland as a display server, rather than X. And this year's Debian defaulted to this. 
+Even though there is an X11 compatibility layer, GTK+ and GNOME on Wayland do not talk to X11 directly for mediated 
+key events any more, and this meant that Xmodmap can't be used to universally set modifier maps. GNOME 3 on wayland 
+will still use xkb for key configurations, and this meant another fourteen hours of fiddling about in order to come 
+up with a keyboard scheme that works for both GNOME and legacy X using the XKeyboard extension (XKB). This was not 
+made any easier by the fact that all the attempts to search for information on this get bogged down in legacy 
+explanations about Xmodmap or how to enable XKB for X11.
+
+--- 
+
+probably not relevant, but highly interesting:
+
+https://blog.martin-graesslin.com/blog/2016/12/how-input-works-keyboard-input/
+
+Notable quotes:
+ - "The forwarding input filter updated the keyboard surface and sends now the key event to the Wayland client. For that all the processing into keysymbol is no longer needed, the key code is sent to the client.
+
+The client gets the key event through a callback and now also sends it through xkbcommon. In Wayland the keymap is sent from the server to the client, so that both server and client have the same keymap. The client can now do a translation from key code to key symbol, just like KWin did before.
+
+The further event processing is handled inside the client. E.g. in Qt this will generate a QKeyEvent which is then sent to the focused widget."
+
+==> this allows each application to have its own keyboard mapping if it so wishes. It might also explain (if Mac and Windows have a similar architecture, why shortcuts like Ctrl+F don't map with the layout change).
+
+https://xkbcommon.org/doc/current/
+libxkbcommon does *not* distribute a keymap dataset itself, other than for testing purposes. The most common dataset is xkeyboard-config, which is used by all current distributions for their X11 XKB data. More information on xkeyboard-config is available here: http://www.freedesktop.org/wiki/Software/XKeyboardConfig   --> that's where I need to go when I am done testing with > 10 users ;)
+
+just for info: https://www.fooishbar.org/blog/xkbcommon-intro/
+
+
+

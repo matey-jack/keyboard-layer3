@@ -1,0 +1,8 @@
+Problem:
+- Layout loaded with xkbdcomp works only in IntelliJ (and possibly other Java apps), 
+- it works partly in Chrome: normal letter swaps, but not AltGr and E, therefore impossible to type E, 
+  since old position is now B
+- doesn't w in standard terminal or GEdit at all
+
+trying to start again from a fresh `xkbcomp $DISPLAY layout.xkb` and changing only one letter there
+has the same problem: works in IntelliJ and Chrome, but not in Terminal.
