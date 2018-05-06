@@ -1,0 +1,37 @@
+working perfectly
+=================
+
+Swapped letters, including the thumb-e. Really miss all of it although I can still type quick fast on the 19th century keyboard. Probably keeping most keys on the same finger is key to keeping that flexibility!
+
+Shifted right hand position and CAPS as Shift. Priceless! Removes so much pain. 
+
+Left AltGr aka L3 modifier: Four pairs of parentheses on two strong fingers is awesome. One quickly forgets that < and > have been expelled from their own key.
+
+Having / and \ on main keyboard (ex-B) make life so much easier that I don't need many L3 positions. This is because some of those (like / and *) only existed to make common bigrams (such as ~/ and \* easier to type). Now \* has both keys on Layer2 (Shift), so it is even easier to type and trivial to remember.
+
+' without modifier is the right thing!
+
+= on bottom row is great for typing <= and >=.
+
+not actually changing any of the numbers and symbols on top row is also great, because I use them so rarely (but still regularly) that they would be hard to learn, but still dearly missed. Having the third layer alternative keying simply means that I can choose a keying depending whether my hands are in home-row fast-typing mode or in hovering navigate-and-edit mode.
+
+I have much fallen in love with the emdash and the multiplication sign. Really great to have them (nevermind the standard xkb layout has them already -- with "leichter tippen" and "layer 3" you can also get them on Windows and Mac ;-))
+
+
+Working well, but could be practiced more or possibly tweaked to perfection
+===========================================================================
+
+Left Hand Navigation: is great, but I don't use it enough.
+
+French and Spanish letters: great to have them, although I need them rarely
+Reaching onto the number row for ! and ? and " seems still natural to me now, so I am not thinking about replicating those keys on another layer. Especially ! and ? serve as end-of-sentence and come with a pause in typing anywhere. I will, however, rethink an alternative to " because it so often needed in programming. OTOH, with caps as shift it can be reached easily even with only the left hand (common usecase when copy-pasting string expressions with the mouse and needing to add quotes).
+
+There are still some unused spots on L3 (and even more on Shift+L3). Maybe I could find great uses for them if I would observe myself a little more. As I have shown with the / slash: observing my own motions and what's slow brings greater insight than the key log. 
+
+pretty quotes (left and right, as well as the German lower quote) would be nice to have, mainly for the double quote.
+
+backtick as a live key is also useful in programming. might get rid of (or move) the dead-grave, if à and è are easy to get...
+
+TODO: shall we have one-stroke positions for é è à (incl. É È À)? We could use the third (and shift+third) levels on e ö ä (since third+a is already taken...).
+
+
