@@ -15,7 +15,7 @@ egrep "^[qwasyxcdv]+$" top10000en.txt  | less
 
 egrep "^[qwasyxcdvzopühläm]+$" tipptraining/top10000en.txt | less
 --> 132 words already allow a few combinations!
-like "local law was also old"
+like "local law was also old" or "sam was happy as a clam"
 
 egrep "^[qwasyxcdvzopühläm]+$" top10000de-utf8.txt | less
 --> im Deutschen kommt mensch ohne i und e leider so gut wie nirgendwo hin!
