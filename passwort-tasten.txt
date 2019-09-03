@@ -17,6 +17,8 @@ egrep "^[qwasyxcdvzopühläm]+$" tipptraining/top10000en.txt | less
 --> 132 words already allow a few combinations!
 like "local law was also old" or "sam was happy as a clam"
 
+egrep "^[qwasyxcdvzopühläm]+$" tipptraining/first-names.txt | less
+
 egrep "^[qwasyxcdvzopühläm]+$" top10000de-utf8.txt | less
 --> im Deutschen kommt mensch ohne i und e leider so gut wie nirgendwo hin!
 --> kann mensch höchstens ein paar Wörter mit Englischen mischen...
