@@ -23,4 +23,6 @@ egrep "^[qwasyxcdvzopühläm]+$" top10000de-utf8.txt | less
 --> im Deutschen kommt mensch ohne i und e leider so gut wie nirgendwo hin!
 --> kann mensch höchstens ein paar Wörter mit Englischen mischen...
 
+cd tipptraining
+cat top10000en.txt german.dic first-names.txt | egrep "^[qwasyxcdvzopühläme]+$" | sort | sed 's/e/3/g' | less
 
