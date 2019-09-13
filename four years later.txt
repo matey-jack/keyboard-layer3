@@ -24,7 +24,7 @@ Working well, but could be practiced more or possibly tweaked to perfection
 Left Hand Navigation: is great, but I don't use it enough.
 
 French and Spanish letters: great to have them, although I need them rarely
-Reaching onto the number row for ! and ? and " seems still natural to me now, so I am not thinking about replicating those keys on another layer. Especially ! and ? serve as end-of-sentence and come with a pause in typing anywhere. I will, however, rethink an alternative to " because it so often needed in programming. OTOH, with caps as shift it can be reached easily even with only the left hand (common usecase when copy-pasting string expressions with the mouse and needing to add quotes).
+Reaching onto the number row for ! and ? and " seems still natural to me now, so I am not thinking about replicating those keys on another layer. Especially ! and ? serve as end-of-sentence and come with a pause in typing anyway. I will, however, rethink an alternative to " because it so often needed in programming. OTOH, with caps as shift it can be reached easily even with only the left hand (common usecase when copy-pasting string expressions with the mouse and needing to add quotes).
 
 There are still some unused spots on L3 (and even more on Shift+L3). Maybe I could find great uses for them if I would observe myself a little more. As I have shown with the / slash: observing my own motions and what's slow brings greater insight than the key log. 
 

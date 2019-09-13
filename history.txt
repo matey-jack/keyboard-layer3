@@ -1,0 +1,18 @@
+Long time ago I tried the NEO 2 layout. It was fun to learn because I could write a few meaningful words and phrases just with the home row, but it was crazy hard to also relearn all the keyboard shortcuts. What made me flip the table was when I wanted to save a file with Ctrl+S and instead closed it viw Ctrl+W or Ctrl+Q.
+At this point I realized that some shortcuts like Ctrl+S, Ctrl+W, Ctrl+XCVZ are already perfectly placed and it would be much better to just keep them and only change some of the awfully placed letters such as ERTIN. Incidentally that's only five letters which need swapping plus five less-used ones to make space for them! (I ended up swapping one more to also optimize for the most important bigrams.)
+
+14 March 2014 - started project for the limited use-case of optimization programmer symbols on the third layer because I thought that this would have a wider audience
+
+1 April - also swapped letters, only NIT at the start and ER soon after.
+
+14 April - shifted to wide layout - this alone is so great that I never went back!
+
+August 2014 - after long time debating what to do with the letter E and worrying that E on thumb would be to strange I made that jump and also never went back!
+
+Then not much happened until I switch to Mac at work and I used it to finally place / on the top layer (no Shift, no AltGr). This is such an obvious choice in retrospect! Like the cap stone which was missing for a long time. This change also meant that I use the third layer much less in general. It's simply simpler!
+
+That was January 2017. Port to Windows came also at this time to write my Civilization Government Journal. 
+
+Next big change was forced by technology and I don't remember that I changed the layout at this time. It was end of 2017, next job back to Linux and that Linux now was switching to Wayland. Ubuntu 17.10 had it by default and it wanted to migrate forward instead of delaying things more. It was a tough few days and I was happy about the success.
+
+2019 again new laptop and used the occasion to update technical documentation, but not change the layout. It's actually perfect!
