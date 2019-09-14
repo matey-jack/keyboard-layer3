@@ -1,3 +1,7 @@
+Dies ist ein altes Repository, dass nur noch aus historischen Gründen existiert und für Leute, die immer noch Xmodmap verwenden, obwohl sie von aktuellen Linuxen nicht mehr unterstützt wird.
+
+Aktuellen Code und Doku gibt es unter [Die gemütliche Tastatur](https://github.com/matey-jack/gemuetliche-tastatur).
+
 ### Standard-Tastatur
 
 ```
