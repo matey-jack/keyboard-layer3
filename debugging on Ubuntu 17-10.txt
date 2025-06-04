@@ -1,3 +1,5 @@
+This was how it felt when I realized that apps using Wayland ignore the xkb layout even while old apps on the Xwayland emulation still work fine. It's all history now.
+
 Problem:
 - Layout loaded with xkbdcomp works only in IntelliJ (and possibly other Java apps), 
 - it works partly in Chrome: normal letter swaps, but not AltGr and E, therefore impossible to type E, 
