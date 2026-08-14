@@ -6,6 +6,9 @@ Aber auch für alle anderen ist es sehr praktisch!
 Und nebenbei enthält es noch ein paar zusätzliche Zeichen. 
 Hast Du Dich schonmal gefragt, warum die deutsche Tastatur Zeichen für `$` und `€` hat, aber nicht `¢` oder `£`? Ab heute brauchst Du Dich nicht mehr wundern, denn es gibt die Zeichen jetzt!
 
+Dieses Repo enthält die Konfiguration für Windows. 
+Seit neuestem gibt es ein Schwester-Repo [xkb-de-l3](https://github.com/matey-jack/xkb-de-l3) mit einer sehr ähnlichen Konfiguration für Linux.
+
 ## Die Belegung der AltGr Ebene
 
 Hier als Screenshot vom Microsoft Keyboard Layout Creator.
