@@ -37,4 +37,4 @@ Vollständige Liste: https://kbdlayout.info/kbdgr/scancodes
 
 Mehr Informationen dazu:
  * [bei Microsoft](https://msdn.microsoft.com/windows/hardware/drivers/hid/keyboard-and-mouse-class-drivers) (Suche auf der Seite nach "Scancode Map") 
- * oder [bei SuperUser.com](https://superuser.ycom/questions/550679/where-can-i-find-windows-keyboard-scancode-registry-information).
+ * oder [bei SuperUser.com](https://superuser.com/questions/550679/where-can-i-find-windows-keyboard-scancode-registry-information).
